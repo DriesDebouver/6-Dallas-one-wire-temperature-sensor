@@ -1,4 +1,4 @@
-# 6 Dallas one wire temperature sensor
+# Dallas one wire temperature sensor
 
 Getting the temperature from a dallas one wire sensor and displaying it.
 
